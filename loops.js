@@ -25,4 +25,3 @@ function doWhileLoop(array) {
     
   } while (maybeTrue());
 }
-}
