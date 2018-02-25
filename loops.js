@@ -23,6 +23,6 @@ function doWhileLoop(array) {
 }
   do {
     
-  } while maybeTrue() 
+  } while (maybeTrue());
 }
 }
